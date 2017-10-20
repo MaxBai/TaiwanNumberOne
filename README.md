@@ -1,3 +1,3 @@
 # TaiwanNumberOne 
 
-Latest Version v0.0.2
+Latest Version v0.1.0
