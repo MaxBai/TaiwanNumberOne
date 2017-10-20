@@ -6,6 +6,7 @@ public class Test {
 		System.out.println("Hello World!!!");
 		System.out.println("Test!!!");
 		System.out.println("fixed yyy");
+		System.out.println("台灣藍波萬");
 	}
 
 }
